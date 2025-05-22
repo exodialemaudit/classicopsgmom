@@ -1,0 +1,5 @@
+colorama
+Flask
+websockets
+streamlit
+openai>=1.0.0 
